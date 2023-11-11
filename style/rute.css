@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900 &display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.judul {
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+#map {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+/* #form-group {
+    margin: 5px;
+}
+#tittle {
+    margin-left: 10px;
+} */
